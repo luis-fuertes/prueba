@@ -1,0 +1,3 @@
+function getGreen(){
+    return "Green";
+}
